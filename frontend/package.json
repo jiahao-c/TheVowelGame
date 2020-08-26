@@ -1,0 +1,38 @@
+{
+  "name": "vowel-game",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^4.3.4",
+    "axios": "^0.19.2",
+    "konva": "^6.0.0",
+    "lodash": "^4.17.15",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-konva": "^16.13.0-3",
+    "react-scripts": "^3.4.1",
+    "react-use-websocket": "^2.0.3",
+    "typescript": "^3.9.6",
+    "use-image": "^1.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
